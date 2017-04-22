@@ -1,5 +1,4 @@
 # QuickInterfaces
-============
 
 ### This is currently a WIP(work in progress). Feel free to contribute.
 
@@ -14,9 +13,9 @@ This is a WIP(work in progress) for getting JSON from predefined access layers w
 
 Quick Tsc (Typescript) Interfaces from your chosen data source. Tell the config where to point, and from now on just spin up the cli and tell her which model you want. For now this accepts JSON, but in the future will accept many different schemas.
 
-### Roadmap:
+## Roadmap:
 
-supported schemas:
+### supported schemas
     - [x] json yup
     - [ ] .NET classes not yet
     - [ ] .NET models not yet
