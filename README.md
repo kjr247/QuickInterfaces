@@ -16,9 +16,10 @@ Quick Tsc (Typescript) Interfaces from your chosen data source. Tell the config 
 ## Roadmap:
 
 ### supported schemas
-    - [x] json yup
-    - [ ] .NET classes not yet
-    - [ ] .NET models not yet
-    - [ ] xml not yet
-    - [ ] SQL schemas not yet
+
+- [x] json yup
+- [ ] .NET classes not yet
+- [ ] .NET models not yet
+- [ ] xml not yet
+- [ ] SQL schemas not yet
 
