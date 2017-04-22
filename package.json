@@ -1,0 +1,38 @@
+{
+  "name": "quickinterfaces",
+  "version": "0.0.0",
+  "description": "configurable CLI tool to generate TS interfaces on the fly, by simply running the npm script and passing it a model name. The first time during setup just tell it about your data access layer and allow access, and from then just go get some tea for every 15 - 30 minutes of grinding typing out interfaces.\u001b[D you save yourself.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc && node ./index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjr247/QuickInterfaces.git"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "bin": {
+    "hacker": "./bin/hacker.js"
+  },
+  "keywords": [
+    "tcs",
+    "TS",
+    "interface",
+    "models",
+    "json",
+    "converter",
+    "cli",
+    "json",
+    "converter",
+    "cli"
+  ],
+  "author": "Kyle J. Rebstock",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kjr247/QuickInterfaces/issues"
+  },
+  "homepage": "https://github.com/kjr247/QuickInterfaces#readme"
+}
