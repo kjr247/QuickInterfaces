@@ -17,6 +17,7 @@ Quick Tsc (Typescript) Interfaces from your chosen data source. Tell the config 
 ### supported schemas
 
 - [x] json
+- [ ] Swagger Schemas
 - [ ] .NET classes
 - [ ] .NET models
 - [ ] xml
